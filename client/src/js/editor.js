@@ -30,6 +30,7 @@ export default class {
     });
 
     this.editor.on('change', () => {
+      putDb(this.editor.getValue())
       localStorage.setItem('content', this.editor.getValue());
     });
 
