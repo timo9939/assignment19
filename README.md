@@ -1,4 +1,4 @@
-# Text Editor Assignment 19
+# Text Editor 
 
 ## Description
 This application is a text editor for creating code snippets. The user can type the code inside the apllication and it will be stored with or without the internet. Also you can click the install button to download the app
@@ -27,7 +27,7 @@ This application is a text editor for creating code snippets. The user can type 
 N/A
 
 ## Screen Capture
-
+![ScreenShot](./ScrenShot.PNG)
 ## Website Link
 https://assignment19-text-editor.herokuapp.com/
 ## GitHub Repository Link
